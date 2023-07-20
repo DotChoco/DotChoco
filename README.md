@@ -26,8 +26,8 @@ DevTools 🧑‍💻 for any programming languaje or Desktop Apps 🖥️.
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MrChocoreto&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrChocoreto&theme=gruvbox&hide_border=true" />
+  <img width="56.6%" src="https://github-readme-stats.vercel.app/api?username=MrChocoreto&theme=dark&show_icons=true&hide=stars&ring_color=B7B5FF&rank_icon=github" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChocoreto&layout=compact&theme=dark" />
   </a>
 </p>
 <br>
