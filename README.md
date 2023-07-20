@@ -4,7 +4,7 @@
 
 I'm a Videogames Developer 🎮, I mainly use Unity(3D & 2D) and I know other technologies like Kotlin, C# and C++ 
 and adition I have knowledge about other technologies like Python, Rust or basic front end(HTML,CSS), 
-but I mainly do DevTools 🧑‍💻 for any programming languaje or Desktop Apps 🖥️.
+and I mainly do DevTools 🧑‍💻 for any programming languaje or Desktop Apps 🖥️.
 
 <br>
 
