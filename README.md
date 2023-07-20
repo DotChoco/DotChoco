@@ -2,7 +2,7 @@
   <b>Hi 👋, I'm Mr_Chocoreto</b>
 </h1>
 
-I'm a Videogames Developer 🎮, I'm use Unity(3D & 2D) and I know other technologies like Kotlin, C# and C++ 
+I'm a Videogames Developer 🎮, I mainly use Unity(3D & 2D) and I know other technologies like Kotlin, C# and C++ 
 and adition I have knowledge about other technologies like Python, Rust or basic front end(HTML,CSS), 
 but I mainly do DevTools 🧑‍💻 for any programming languaje or Desktop Apps 🖥️.
 
