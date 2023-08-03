@@ -3,7 +3,7 @@
 </h1>
 
 I'm a Videogames Developer 🎮, I mainly use Unity(3D & 2D), Kotlin, C# and C++ 
-and adition I have basic knowledge about other technologies like Python, Rust, HTML and CSS. 
+and adition I have basic knowledge about other technologies like Python, HTML and CSS. 
 And I mainly do DevTools 🧑‍💻 for various programming languaje or Desktop Apps 🖥️.
 
 <br>
