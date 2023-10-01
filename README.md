@@ -14,7 +14,6 @@ And I mainly do DevTools 🧑‍💻 (for various programming languaje) and Desk
   <img src="https://img.shields.io/badge/-Godot-7F7DFF?style=for-the-badge&logo=godotengine&logoColor=B7B5FF&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-Kotlin-1E875E?style=for-the-badge&logo=kotlin&logoColor=008F62&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-Rust-8F0000?style=for-the-badge&logo=rust&logoColor=FF3739&labelColor=240000">
-  <img src="https://img.shields.io/badge/-GDScript-7F7DFF?style=for-the-badge&logo=godotengine&logoColor=B7B5FF&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-CSharp-7751BA?style=for-the-badge&logo=csharp&logoColor=CEB2FF&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
