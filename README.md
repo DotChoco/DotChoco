@@ -2,8 +2,8 @@
   <b>Hi 👋, I'm Dot_Choco</b>
 </h1>
 <p align="center">
-I'm a Videogames Developer 🎮, I mainly use Unity(3D & 2D) and C# and adition have basic knowledge about other technologies like Unreal Engine, Godot Engine, HTML, CSS. 
-And I mainly do DevTools 🧑‍💻 (for various programming languaje) and Desktop Apps 🖥️.
+I'm a Software Developer 🎮, mainly use Unity(2D) and C# Aplications and adition have basic knowledge about other technologies like Unreal Engine, Godot Engine, HTML, CSS. 
+The main are the DevTools 🧑‍💻 (for various programming languaje) and Desktop Apps 🖥️.
 </p>
 <br>
 
