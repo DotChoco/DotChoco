@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 Software Developer 🧑🏽‍💻 that mainly use C# an Unity(2D) and adition have basic knowledge about other technologies like Rust, Unreal Engine, HTML and CSS. 
-The main are the DevTools 🧑‍💻 (for various programming languajes), Terminal Apps(TUI's) and Desktop Apps 🖥️.
+The main are the DevTools 🧑‍💻 (for various programming languajes), Terminal Apps(CLI's) and Desktop Apps 🖥️.
 </p>
 <br>
 
