@@ -23,8 +23,8 @@ The main are the DevTools 🧑‍💻 (for various programming languajes), Termi
 
 <br/>
 <p align="left">
-  <img width="56.6%" src="https://github-readme-stats.vercel.app/api?username=MrChocoreto&theme=dark&show_icons=true&hide=stars&ring_color=B7B5FF&rank_icon=github" />
-  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChocoreto&layout=compact&theme=dark" />
+  <img width="56.6%" src="https://github-readme-stats.vercel.app/api?username=DotChoco&theme=dark&show_icons=true&hide=stars&ring_color=B7B5FF&rank_icon=github" />
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotChoco&layout=compact&theme=dark" />
   </a>
 </p>
 <br>
