@@ -12,9 +12,6 @@ The main are the DevTools 🧑‍💻 (for various programming languajes), Termi
   <img src="https://img.shields.io/badge/-CSharp-7751BA?style=for-the-badge&logo=csharp&logoColor=CEB2FF&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-Rust-D11B21?style=for-the-badge&logo=rust&logoColor=FF474D&labelColor=282828">
   <img src="https://img.shields.io/badge/-Unity-757575?style=for-the-badge&logo=unity&logoColor=E6E6E6&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-Unreal-dedede?style=for-the-badge&logo=unrealengine&logoColor=dedede&labelColor=000000">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
 </div>
 </p>
 
