@@ -2,7 +2,7 @@
   <b>Hi 👋, I'm DotChoco</b>
 </h1>
 <p align="center">
-Software Developer 🧑🏽‍💻 that mainly use C# an Unity(2D) and adition have basic knowledge about other technologies like Rust, HTML, CSS, JavaScript and Go. 
+Software Developer 🧑🏽‍💻 that mainly use C# an Unity(2D) and adition have basic knowledge about other technologies like Rust, HTML and CSS. 
 The main are the DevTools 🧑‍💻 (for various programming languajes), Terminal Apps(CLI's) and Desktop Apps 🖥️.
 </p>
 <br>
@@ -14,8 +14,6 @@ The main are the DevTools 🧑‍💻 (for various programming languajes), Termi
   <img src="https://img.shields.io/badge/-Rust-D11B21?style=for-the-badge&logo=rust&logoColor=FF474D&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-HTML-db6b32?style=for-the-badge&logo=html5&logoColor=db6b32&labelColor=1F1F1F">
   <img src="https://img.shields.io/badge/-CSS-2065fa?style=for-the-badge&logo=css&logoColor=4e82f2&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-JS-ebd61c?style=for-the-badge&logo=javascript&logoColor=ebd61c&labelColor=1F1F1F">
-  <img src="https://img.shields.io/badge/-GO-2ca5b8?style=for-the-badge&logo=goland&logoColor=4ee5fc&labelColor=1F1F1F">
 </div>
 </p>
 
